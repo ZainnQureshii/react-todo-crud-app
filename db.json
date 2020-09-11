@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Learn Angular",
+      "completed": false
+    },
+    {
+      "title": "The Complete JavaScript Course 2020: Build Real Projects",
+      "id": 6
+    },
+    {
+      "title": "Learn Project",
+      "id": 8
+    }
+  ]
+}
